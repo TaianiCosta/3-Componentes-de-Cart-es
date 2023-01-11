@@ -1,18 +1,37 @@
 main {
     color: hsl(0, 0%, 100%, 0.75);
+    display: flex;
 }
+
+div {
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    margin-left: -4px;
+}
+
+h1 {
+    margin: 20px auto 20px 10px;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    margin: 50px auto auto 10px;
+    }
 
 .sedan {
     background-color: hsl(31, 77%, 52%);
-    font-weight: 400;
 }
 
 .suvs {
-    background-color: hsl(184, 100%, 22%);
+    background-color: hsl(184, 100%, 22%);    
 }
 
 .luxo {
-    background-color: hsl(179, 100%, 13%);
+    background-color: hsl(179, 100%, 13%);    
 }
 
 h1 {
