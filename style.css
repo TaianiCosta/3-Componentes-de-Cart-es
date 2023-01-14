@@ -22,7 +22,7 @@ div {
 
 h1 {
     color: hsl(0, 0%, 100%, 0.75);
-    margin: 20px auto 10px 30px;
+    margin: 20px auto 0 30px;
     font-family: 'Big Shoulders Display', sans-serif;
 }
 
@@ -30,7 +30,7 @@ p {
     color: hsl(0, 0%, 95%);
     text-align: left;
     margin-bottom: 30px;
-    padding: 20px 30px 20px 30px;
+    padding: 10px 30px 20px 30px;
     font-size: 10px;
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.8;
@@ -83,8 +83,10 @@ footer {
 .attribution { 
     font-size: 11px;  
     color: hsla(0, 0%, 2%, 0.959);
+    font-family: 'Lexend Deca', sans-serif;
 }
 
 .attribution a { 
     color: hsl(327, 88%, 50%); 
+    text-decoration: none;
 }
