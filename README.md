@@ -1,6 +1,6 @@
 # Frontend Mentor - componente de cartão de visualização de 3 colunas
 
-![Visualização do design para o desafio de codificação do componente do cartão de visualização de 3 colunas](./Captura%20de%20tela%20de%202023-01-20%2009-05-36%20(1).png)
+![Visualização do design para o desafio de codificação do componente do cartão de visualização de 3 colunas](./design/active-states.jpg)
 
 ## Bem-vindo! 👋
 
